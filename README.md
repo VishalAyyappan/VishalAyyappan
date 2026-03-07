@@ -14,8 +14,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=ASIC+%26+SoC+Verification+Engineer;UVM+%7C+SystemVerilog+%7C+Constrained+Random;Bare-Metal+Firmware+%26+RTOS+Developer;ARM+Cortex-M+%7C+C%2FC%2B%2B+%7C+Python+HIL" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-ayyappan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-ayyappan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal.ayyappan@ufl.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalAyyappan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visforlearning@gmail.com)
+[![Email2](https://img.shields.io/badge/Email2-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalayyappan80@gmail.com)
 
 </div>
 
@@ -105,7 +106,6 @@ interests   : UVM · AMBA Protocols · Bare-Metal C · RTOS · HIL Testing
 | 🟧 **Preemptive RTOS Kernel** | ARM Cortex-M4 | Context switching · semaphores · scheduler from scratch |
 | 🟧 **STM32 UART Bootloader** | STM32F4 | CRC-verified OTA update · custom bootloader protocol |
 | 🟧 **Bare-Metal Driver Suite** | STM32F4 | I2C / SPI / UART — no HAL, direct register access |
-| 🟧 **HIL Test Framework** | Python + HW | Live web dashboard · Python hardware-in-the-loop |
 
 ---
 
@@ -133,18 +133,7 @@ interests   : UVM · AMBA Protocols · Bare-Metal C · RTOS · HIL Testing
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vishal-ayyappan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-ayyappan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-<div align="center">
 
 ```
 [ RTL Design ]──►[ UVM Verification ]──►[ Firmware ]──►[ System Integration ]
