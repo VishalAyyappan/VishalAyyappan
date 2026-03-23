@@ -11,12 +11,11 @@
 
 ### `RTL → Silicon → Firmware → System`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=ASIC+%26+SoC+Verification+Engineer;UVM+%7C+SystemVerilog+%7C+Constrained+Random;Bare-Metal+Firmware+%26+RTOS+Developer;ARM+Cortex-M+%7C+C%2FC%2B%2B+%7C+Python+HIL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Open+to%3A+ASIC+DV+%7C+SoC+Design+%7C+Embedded+Eng;UVM+%7C+SystemVerilog+%7C+Constrained+Random;Bare-Metal+Firmware+%26+RTOS+Developer;ARM+Cortex-M+%7C+C%2FC%2B%2B+%7C+Python+HIL" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-ayyappan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalAyyappan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visforlearning@gmail.com)
-[![Email2](https://img.shields.io/badge/Email2-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalayyappan80@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-ayyappan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal.ayyappan@ufl.edu)
 
 </div>
 
@@ -106,6 +105,7 @@ interests   : UVM · AMBA Protocols · Bare-Metal C · RTOS · HIL Testing
 | 🟧 **Preemptive RTOS Kernel** | ARM Cortex-M4 | Context switching · semaphores · scheduler from scratch |
 | 🟧 **STM32 UART Bootloader** | STM32F4 | CRC-verified OTA update · custom bootloader protocol |
 | 🟧 **Bare-Metal Driver Suite** | STM32F4 | I2C / SPI / UART — no HAL, direct register access |
+| 🟧 **HIL Test Framework** | Python + HW | Live web dashboard · Python hardware-in-the-loop |
 
 ---
 
@@ -135,14 +135,16 @@ interests   : UVM · AMBA Protocols · Bare-Metal C · RTOS · HIL Testing
 
 
 
-```
-[ RTL Design ]──►[ UVM Verification ]──►[ Firmware ]──►[ System Integration ]
-      │                   │                  │                    │
+<div align="center">
+ 
+<pre>
+   [ RTL Design ]──►[ UVM Verification ]──►[ Firmware ]──►[ System Integration ]
+  │                   │                  │                    │
  SystemVerilog         Xcelium          ARM Cortex-M           Python HIL
- AMBA Protocols        DPI-C            Bare-Metal C          Web Dashboard
- CDC / DFT             SVA / CRV        RTOS Kernel           HW-in-the-Loop
-```
-
+   AMBA Protocols        DPI-C            Bare-Metal C          Web Dashboard
+    CDC / DFT             SVA / CRV        RTOS Kernel           HW-in-the-Loop
+</pre>
+ 
 *"From register-transfer level to running firmware — I've worked the full stack of silicon."*
-
+ 
 </div>
