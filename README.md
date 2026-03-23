@@ -84,19 +84,19 @@ interests   : UVM · AMBA Protocols · Bare-Metal C · RTOS · HIL Testing
 
 | Project | Protocols | Highlights |
 |---|---|---|
-| 🟦 **DDR3 Memory Controller UVM** | DDR3 / AXI | DPI-C ref model · SVA timing assertions · constrained-random sequences |
+| 🟦 [**DDR3 Memory Controller UVM**](https://github.com/VishalAyyappan/dr3-memory-controller-uvm.git) | DDR3 / AXI | DPI-C ref model · SVA timing assertions · constrained-random sequences |
 | 🟦 **PCIe Gen1/2 TLP Endpoint** | PCIe | Full UVM env · TLP packet coverage · scoreboard |
-| 🟦 **APB-to-Serial Protocol Bridge** | APB / CDC | Gray-coded async FIFOs · debugged on Xcelium 23.09 |
+| 🟦 [**APB-to-Serial Protocol Bridge**](https://github.com/VishalAyyappan/apb-to-serial-bridge.git) | APB / CDC | Gray-coded async FIFOs · debugged on Xcelium 23.09 |
 | 🟦 **DMA Controller (AXI4 Master)** | AXI4 | Descriptor-based · full UVM environment |
-| 🟦 **AXI4-Lite Register File** | AXI4-Lite / CDC | CDC crossing · coverage-driven |
+| 🟦 [**AXI4-Lite Register File**](https://github.com/VishalAyyappan/sv-axi4-lite-cdc-design.git) | AXI4-Lite / CDC | CDC crossing · coverage-driven |
 
 ### RTL Design
 
 | Project | Tech | Highlights |
 |---|---|---|
-| 🟩 **RISC-V RV32I 5-Stage Pipeline** | SystemVerilog + UVM | Full UVM verification · branch predictor PPA study |
-| 🟩 **Branch Predictor PPA Study** | SystemVerilog | 2-bit saturating · Gshare · Tournament — area/timing trade-off |
-| 🟩 **L1 Data Cache Controller** | SystemVerilog | Parameterized · PPA analysis |
+| 🟩 [**RISC-V RV32I 5-Stage Pipeline**](https://github.com/VishalAyyappan/riscv32i-5stage-uvm.git) | SystemVerilog + UVM | Full UVM verification · branch predictor PPA study |
+| 🟩 [**Branch Predictor PPA Study**](https://github.com/VishalAyyappan/riscv-branch-predictors-ppa.git) | SystemVerilog | 2-bit saturating · Gshare · Tournament — area/timing trade-off |
+| 🟩 [**L1 Data Cache Controller**](https://github.com/VishalAyyappan/Non-Blocking-L1-Cache.git) | SystemVerilog | Parameterized · PPA analysis |
 
 ### Firmware & Embedded
 
