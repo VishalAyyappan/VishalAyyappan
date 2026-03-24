@@ -15,8 +15,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-ayyappan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-ayyappan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal.ayyappan@ufl.edu)
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalayyappan80@gmail.com)
+[![Email2](https://img.shields.io/badge/Email_2-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visforlearning@gmail.com)
 </div>
 
 ---
