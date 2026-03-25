@@ -85,9 +85,9 @@ interests   : UVM · AMBA Protocols · Bare-Metal C · RTOS · HIL Testing
 | Project | Protocols | Highlights |
 |---|---|---|
 | 🟦 [**DDR3 Memory Controller UVM**](https://github.com/VishalAyyappan/dr3-memory-controller-uvm.git) | DDR3 / AXI | DPI-C ref model · SVA timing assertions · constrained-random sequences |
-| 🟦 **PCIe Gen1/2 TLP Endpoint** | PCIe | Full UVM env · TLP packet coverage · scoreboard |
+| 🟦 [**PCIe Gen1/2 TLP Endpoint**](https://github.com/VishalAyyappan/pcie-endpoint-uvm.git) | PCIe | Full UVM env · TLP packet coverage · scoreboard |
 | 🟦 [**APB-to-Serial Protocol Bridge**](https://github.com/VishalAyyappan/apb-to-serial-bridge.git) | APB / CDC | Gray-coded async FIFOs · debugged on Xcelium 23.09 |
-| 🟦 **DMA Controller (AXI4 Master)** | AXI4 | Descriptor-based · full UVM environment |
+| 🟦 [**DMA Controller (AXI4 Master)**](https://github.com/VishalAyyappan/sg-dma-axi.git) | AXI4 | Descriptor-based · full UVM environment |
 | 🟦 [**AXI4-Lite Register File**](https://github.com/VishalAyyappan/sv-axi4-lite-cdc-design.git) | AXI4-Lite / CDC | CDC crossing · coverage-driven |
 
 ### RTL Design
